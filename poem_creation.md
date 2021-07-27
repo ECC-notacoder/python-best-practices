@@ -31,6 +31,7 @@ Daniel Beckett |
 Danijela Mojsilovic |
 Dimitrios Tanoglidis |
 Donghyun Kang |
+Elise Chen |
 Eman Shahzad |
 Emily Chen |
 Eric Van Camp |
